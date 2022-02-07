@@ -1,0 +1,1 @@
+CREATE TABLE prices (id SERIAL PRIMARY KEY, coin VARCHAR(50), price DECIMAL, timestamp TIMESTAMP);
