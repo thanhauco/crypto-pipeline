@@ -1,1 +1,2 @@
-name: 'crypto'
+tests:
+  - assert_positive

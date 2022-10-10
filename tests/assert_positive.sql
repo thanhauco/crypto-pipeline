@@ -1,0 +1,1 @@
+select * from prices where price < 0
