@@ -1,1 +1,1 @@
-on_failure_callback=alert
+dag.doc_md = __doc__
