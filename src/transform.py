@@ -1,4 +1,2 @@
-import pandas as pd
-def clean_data(data):
-    df = pd.DataFrame(data)
-    return df.dropna()
+def agg(df):
+    return df.groupby('coin').mean()
