@@ -1,1 +1,4 @@
-dag.doc_md = __doc__
+from airflow.decorators import task
+@task
+def extract():
+    pass
