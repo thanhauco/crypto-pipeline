@@ -1,2 +1,8 @@
 # Crypto ETL Pipeline
-ETL for crypto prices.
+
+## Phase 2 Features
+- Backfill Support
+- Ethereum Source
+- Streamlit Dashboard
+- dbt Tests
+- Data Lineage
