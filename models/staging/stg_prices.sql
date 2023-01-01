@@ -1,1 +1,1 @@
-SELECT * FROM prices
+SELECT DISTINCT * FROM prices
