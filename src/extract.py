@@ -1,2 +1,4 @@
-def fetch_eth():
-    return requests.get('https://api.coingecko.com/api/v3/simple/price?ids=ethereum').json()
+import time
+def fetch_with_retry():
+    time.sleep(1)
+    return requests.get('url').json()
