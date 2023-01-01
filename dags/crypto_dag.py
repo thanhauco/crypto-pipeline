@@ -1,4 +1,1 @@
-from airflow.decorators import task
-@task
-def extract():
-    pass
+schedule_interval='0 0 * * *'
